@@ -1,0 +1,60 @@
+baseurl = "http://weles-ai.com"
+title = "Weles AI"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Weles AI"
+  info = "Consulting company pioneering the future of defense and AI innovation"
+  description = "AI consultants"
+  keywords = "ai, consulting, defence"
+  avatarurl = "images/avatar.jpg"
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2018
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+# Social links
+[[params.social]]
+  name = "Mail"
+  url = "mailto:welesaipl@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+  icon = "fa fa-envelope fa-2x" 
+
+[[params.social]]
+  name = "Twitter"
+  icon = "fa-brands fa-x-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/mamazurPL/"
+
+[[params.social]]
+    name = "Medium"
+    icon = "fab fa-medium fa-2x"
+    weight = 1
+    url = "https://medium.com/weles-ai"
+
+# Menu links
+[[menu.main]]
+  name = "Contact"
+  weight = 1
+  url  = "contact/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"

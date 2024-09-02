@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weles AI</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Weles AI</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact our experts directly</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Maciej Mazur Link to heading Dell AI CTO for EMEA region active duty soldier of the Polish Armed Forces Cyber Detachment over 12 years of experience&#xA;Bartłomiej Poniecki Klotz Link to heading Canonical AI lead Solutions architect over 15 years of experience</description>
+    </item>
+    <item>
+      <title>Welcome to Weles AI</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Pioneering the Future of Defense and AI Innovation Link to heading At Weles AI, we are at the forefront of integrating cutting-edge artificial intelligence technologies into the defense sector, focusing on transformative capabilities that redefine operational efficiency, strategic decision-making, and technological sovereignty. Here&amp;rsquo;s how we&amp;rsquo;re leading the charge:&#xA;AI in Defense: Empowering the Future of Warfare Link to heading Decision support system: enchanced command and controll Link to heading LLMOps: The Operational Backbone of AI Link to heading Sovereign AI Clouds: Control, Security, and Innovation Link to heading Why Choose WelesAI?</description>
+    </item>
+  </channel>
+</rss>
